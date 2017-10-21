@@ -1,0 +1,19 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "In this week's assignment, you will create a flashcard command-line game using constructor functions.",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsantonio/Flashcard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsantonio/Flashcard/issues"
+  },
+  "homepage": "https://github.com/rsantonio/Flashcard#readme"
+}
